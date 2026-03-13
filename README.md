@@ -159,9 +159,9 @@ The system is tested using:
 
 ## 👨‍💻 Project Authors
 
-**Bhagat Rushikesh Santosh**
-**Rasal Chaitanya Pravin**
-**Lodekar Tanisha Narendra**
+*Bhagat Rushikesh Santosh*
+*Rasal Chaitanya Pravin*
+*Lodekar Tanisha Narendra*
 
 ---
 
